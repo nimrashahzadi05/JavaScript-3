@@ -23,3 +23,4 @@ describe("07-exercise", function () {
         expect(result).toBe(10);
     });
 });
+//exercise done
